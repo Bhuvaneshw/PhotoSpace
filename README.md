@@ -1,16 +1,3 @@
-# app
+# Photo Space
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is about cloud storage. Photo Space in an online cloud storage application for storing all the photos. Photos are organized and searchable so that the photos can be retrieved easily. Upload your photos with a single click and can be accessed from any device. Photos can also be uploaded automatically based on the preferences. Photos can be easily shared with friends and family. Photo Space helps to access the photos from anywhere and on any device. With the help of Photo Space, the storage of local devices can be saved. Keep all the important photos in a safe cloud storage! No matter what happens to your drive on your PC or Phone. All your files stored in Cloud will stay intact. You can save your bandwidth by just sending the link of your photo rather than sending the image, which consumes bandwidth.
